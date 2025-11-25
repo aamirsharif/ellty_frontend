@@ -1,0 +1,21 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+    width: 4px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: #e5e7eb;
+    border-radius: 20px;
+}
+
+.checkbox-box {
+    transition: all 0.2s ease;
+}
+.check-icon {
+    transition: all 0.2s ease;
+}
